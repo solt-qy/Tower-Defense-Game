@@ -1,0 +1,6 @@
+1,spawn,5,slicer,1000
+1,delay,1000
+2,spawn,5,superslicer,1000
+2,delay,1000
+3,spawn,5,megaslicer,5000
+3,spawn,5,slicer,5000
